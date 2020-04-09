@@ -1,7 +1,11 @@
-# Thailand Covic-19 projects
+รวบรวมโครงการภาคเอกชน เพื่อบรรเทาปัญหา Covic-19
+====
 
-Summary all Thai covice-19 projects
+มีโครงการจำนวนมากจากภาคเอกชนที่พยายามเข้ามาแก้ปัญหาที่เกิดขึ้นในช่วง Covic-19 ทั้งที่เป็นบริษัทเข้ามาทำ และเป็นกลุ่มคนเข้ามาทำ แต่ก็จะพบปัญหาคล้ายๆ กันคือไม่รู้ว่ามีเพื่อนของเราทำอยู่แล้วหรือเปล่า ผมเลยลองรวบรวมโครงการที่เกิดขึ้นในช่วงนี้มาไว้ที่เดียวกัน
 
+___ตอนนี้โครงการยังมีไม่มากนักเลยยังไม่อยากแบ่งประเภทของมัน ไว้มีเยอะๆ เราค่อยคิดเรื่องจัดกลุ่มอีกที___
+
+---
 
 ### Thailand Covic-19 Dashboard
 
@@ -9,7 +13,7 @@ Summary all Thai covice-19 projects
 
 พัฒนา Dashboard เพื่อรายงานสถานการณ์ Covic-19 ในประเทศไทย โญเอาต้นแบบมาจากสิงคโปร์
 
-Source: [Thailand Covic-19 Dashboard](https://co.vid19.sg/singapore/dashboard)
+ดูเพิ่มเติม: [Thailand Covic-19 Dashboard](https://co.vid19.sg/singapore/dashboard)
 
 ---
 
@@ -19,7 +23,7 @@ Source: [Thailand Covic-19 Dashboard](https://co.vid19.sg/singapore/dashboard)
 
 โครงการรวบรวมความต้องการของโรงพยาบาล เพื่อรับมือ Covic-19
 
-Source: [Info AID](https://www.infoaid.org)
+ดูเพิ่มเติม: [Info AID](https://www.infoaid.org)
 
 ---
 
@@ -29,7 +33,7 @@ Source: [Info AID](https://www.infoaid.org)
 
 faceshield ที่ผลิตง่าย เบา และประกอบง่าย
 
-Source: [Lightfog Face shield](https://holenhello.com/pages/smart-face-shield?fbclid=IwAR2bqLVJKRgLBQZI8TzeqmP7XJ1U1_uTl_FvPnvkQMGG55-7MFTFaOqrupw)
+ดูเพิ่มเติม: [Lightfog Face shield](https://holenhello.com/pages/smart-face-shield?fbclid=IwAR2bqLVJKRgLBQZI8TzeqmP7XJ1U1_uTl_FvPnvkQMGG55-7MFTFaOqrupw)
 
 ---
 
@@ -39,7 +43,7 @@ Source: [Lightfog Face shield](https://holenhello.com/pages/smart-face-shield?fb
 
 โดรงการพัฒนาระบบส่งผลการตรวจร่างกายเบื้องต้นด้วยตนเอง เพื่อให้คนไข้ที่อยู่ในโรงพยาบาลสามารถส่งผลตรวจสุขภาพได้ด้วยตนเอง ลดความเสี่ยงในการแพร่เชื้อโควิด-19 สู่หมอและพยาบาล
 
-Source: [Vitalsign App](https://vitalsignapp.com/)
+ดูเพิ่มเติม: [Vitalsign App](https://vitalsignapp.com/)
 
 ---
 
@@ -49,4 +53,4 @@ Source: [Vitalsign App](https://vitalsignapp.com/)
 
 โครงการแจ้งเบาะแส Covic-19 ผ่านทางไลน์แอด @covic-19
 
-Source: [QR Code](images/line-covic-19.png)
+ดูเพิ่มเติม: [QR Code](images/line-covic-19.png)
