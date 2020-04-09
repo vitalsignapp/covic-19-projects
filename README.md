@@ -50,3 +50,14 @@ Source: [Vitalsign App](https://vitalsignapp.com/)
 โครงการแจ้งเบาะแส Covic-19 ผ่านทางไลน์แอด @covic-19
 
 Source: [QR Code](images/line-covic-19.png)
+
+
+---
+
+### สบายดี bot
+
+<image src="images/sabuydeebot.png" width="300px" />
+
+โครงการแจ้งอาการป่วยผ่านทาง line
+
+เพิ่มเติม: [Link to line](https://line.me/R/ti/p/@sabaideebot)
